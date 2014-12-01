@@ -238,7 +238,7 @@ h4 {
 }
 
 h5 {
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 28px;
 }
 
@@ -610,12 +610,12 @@ a.white-text:hover {
 
 /* INTRO */
 .intro-section {
-	margin-top: 70px;
+	margin-top: 20px;
 }
 
 .intro-section h5 {
 	margin-top: 15px;
-	margin-bottom: 70px;
+	margin-bottom: 20px;
 }
 
 /*---------------------------------------
@@ -646,7 +646,7 @@ a.white-text:hover {
    3.3 SECTION: SERVICES    
 -----------------------------------------*/
 .single-service {
-	padding: 40px 35px 40px 35px;
+	padding: 10px 35px 10px 35px;
 	margin: 0 0 100px 0;
 	background: #ffffff;
 	border-top: 1px solid #eaeaea;
